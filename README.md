@@ -1,25 +1,11 @@
-# tailwind-css
+# Shopping List (todo list)
 
-## Project setup
-```
-npm install
-```
+This app is a simple shopping list (todo list) made with Vue.js and Tailwind CSS.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Inside this app, you can :
+- Add an item
+- Remove an item
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# todolist-vuejs-tailwind-css
+## It allowed me to :
+- Install [Tailwind CSS](https://tailwindcss.com/).
+- Learn the basics of the CSS framework __Tailwind CSS__ in a Vue project.
